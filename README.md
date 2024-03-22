@@ -31,3 +31,5 @@ At the end of each session, all interactive Jupyter notebooks that explore the t
 - **Day 5: Statistical Testing in Pingouin and Software Management with Conda**
     - March 22nd, 9h30 - 17h00
     - [Materials](./day5)
+
+    **Only the penitent man shall pass**
